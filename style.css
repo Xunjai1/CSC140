@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>UAT Space Web Demo</title>
+    <link rel="stylesheet" href="./style.css">
+
+  </head>
+    
+  <body>
+  <!-- header section - page title goes here -->
+<header>
+  <!--  add your name and a title between the <h1> and </h1> tags, for example Captain Rae's Space Log  -->
+  <h1></h1>
+</header>
+
+<!-- navigation section - menu goes here -->
+<nav>
+    <ul>
+      <!-- create the text for Link 1, for example: <li><a href="#">Missions</a></li> -->
+      <li><a href="#"></a></li>
+      <!-- create the text for Link 2, for example: <li><a href="#">Alien Life</a></li> -->
+      <li><a href="#"></a></li>
+      <!-- create the text for Link 3, for example: <li><a href="#">Tech</a></li> -->
+      <li><a href="#"></a></li>
+    </ul>
+</nav>
+
+<!-- main section - core content goes -->
+<main>
+    <section>
+      <!-- add a title for the first entry, for example: <h2>Today was cold</h2> -->
+      <h2></h2>
+      <!-- add the details of what happened in a sentence or 2, for example: <p>I was cold.</p> -->
+      <p>
+        
+      </p>
+    </section>
+  
+    <section>
+      <!-- add a title for the first entry, for example: <h2>Today was very cold</h2> -->
+      <h2></h2>
+      <!-- add the details of what happened in a sentence or 2, for example: <p>I was very cold.</p> -->
+      <p>
+        
+      </p>
+    </section>
+</main>
+
+<!-- footer section - legal goes here -->
+<footer>
+    <!-- add a footer with copyright info, for example: <p>© 3025 Intergalactic Explorers Guild</p>-->
+   <p></p>
+</footer>
+    
+  </body>
+  
+</html>
